@@ -3,13 +3,11 @@ Pagina responsiva de una escuela de cocina
 
 ***
 ## Tabla de contenido
-2. [Tecnologias](#Tecnologias)
-3. [FAQs](#faqs)
+1. [Tecnologias](#Tecnologias)
    
 ***
 ### Tecnologias
-***
+
 * React
 * Typescript
 * SASS - estilos
-***
