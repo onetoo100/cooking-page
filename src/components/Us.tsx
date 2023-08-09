@@ -5,7 +5,7 @@ import menuIcon from "../assets/icono_menu.png";
 
 const Us = () => {
   return (
-    <section className="nosotros contenedor">
+    <section className="nosotros contenedor" id="us">
       <h2 className="nosotros__heading">¿Porqué estudiar con nosotros?</h2>
 
       <div className="nosotros__grid">

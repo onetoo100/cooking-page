@@ -9,7 +9,7 @@ import ImageComponent from "./ui/image";
 
 const Classes = () => {
   return (
-    <main className="clases">
+    <main className="clases" id="classes">
       <h2 className="clases__heading">Próximas Clases</h2>
 
       <div className="clases__grid contenedor">

@@ -1,6 +1,6 @@
 const Us = () => {
   return (
-    <section className="bloques">
+    <section className="bloques" id="bloques">
       <div className="bloques__grid">
         <div className="bloque">
           <div className="bloque__contenido">

@@ -1,6 +1,6 @@
 const School = () => {
   return (
-    <section className="escuela">
+    <section className="escuela" id="school">
       <h2 className="escuela__heading">¿Quieres ser Chef?</h2>
       <p className="escuela__texto">
         Estudia la licenciatura para convertirte en Chef con nosotros

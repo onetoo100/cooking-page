@@ -13,7 +13,7 @@ const ImageComponent: FC<ImageComponentProps> = ({
   className,
   ...props
 }) => {
-  const imageClasses = `object-contain ${className || ""}`;
+  const imageClasses = `imageComponent ${className || ""}`;
 
   return (
     <img
